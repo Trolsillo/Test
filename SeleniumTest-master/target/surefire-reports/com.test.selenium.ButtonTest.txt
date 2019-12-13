@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.test.selenium.ButtonTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 184.069 s <<< FAILURE! - in com.test.selenium.ButtonTest
+titleWebsiteTest(com.test.selenium.ButtonTest)  Time elapsed: 97.534 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Facebook]> but was:<[Servicios – Choucair Testing]>
+	at com.test.selenium.ButtonTest.titleWebsiteTest(ButtonTest.java:27)
+

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.test.selenium.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 137.502 s <<< FAILURE! - in com.test.selenium.AppTest
+buttonVerMasTest(com.test.selenium.AppTest)  Time elapsed: 5.551 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Formacion - Choucair Testing]> but was:<[El subdominio no se Encuentra disponible]>
+	at com.test.selenium.AppTest.buttonVerMasTest(AppTest.java:49)
+
